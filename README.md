@@ -7,7 +7,7 @@ This project was developed as part of the **JPMorgan Chase Virtual Internship (F
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This system receives transactions, validates them, processes them, and stores the results.  
 It also allows users to check their account balance.
