@@ -76,7 +76,7 @@ GET /balance?userId={id}
 
 ## 🎯 Final thoughts
 
-This project helped me understand how backend systems handle real-world problems like transaction processing, validation, and system integration.
+This project helped me understand how backend systems handle real-world problems like transaction processing, validation, and system integration
 
 ---
 
@@ -86,3 +86,4 @@ Developed by Deven Borse
 🎓 JPMorgan Chase Virtual Internship (Forage)
 
 </div>
+
