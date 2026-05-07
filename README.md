@@ -5,7 +5,7 @@
 Midas Core is a backend system built using Spring Boot that processes financial transactions.  
 This project was developed as part of the **JPMorgan Chase Virtual Internship (Forage)** and demonstrates how real-world backend systems work using Kafka, databases, APIs, and REST endpoints.
 
----
+----
 
 ##  Overview
 
@@ -16,7 +16,7 @@ It also allows users to check their account balance.
 
 Frontend → Kafka → Midas Core → Database → Incentive API → REST API
 
----
+----
 
 ## 🚀 Features
 
@@ -26,7 +26,7 @@ Frontend → Kafka → Midas Core → Database → Incentive API → REST API
 - 🎯 Integration with external Incentive API  
 - 🌐 REST API to check user balance  
 
----
+----
 
 ## ⚙️ How it works
 
@@ -38,7 +38,7 @@ Frontend → Kafka → Midas Core → Database → Incentive API → REST API
 6. ➕ Recipient gets amount + incentive  
 7. 🗄️ Transaction is saved in database  
 
----
+----
 
 ## 🧰 Technologies used
 
@@ -49,7 +49,7 @@ Frontend → Kafka → Midas Core → Database → Incentive API → REST API
 - 🔗 Spring Data JPA  
 - 🌍 REST APIs  
 
----
+----
 
 ## 🌐 API Endpoint
 
@@ -63,7 +63,7 @@ GET /balance?userId={id}
 
 👉 If the user does not exist, the balance returned is 0.
 
----
+----
 
 ## 🧠 Key concepts
 
@@ -72,13 +72,13 @@ GET /balance?userId={id}
 - 🌐 REST APIs enable communication between services  
 - 📈 System is scalable and easy to extend  
 
----
+----
 
 ## 🎯 Final thoughts
 
 This project helped me understand how backend systems handle real-world problems like transaction processing, validation, and system integration
 
----
+----
 
 👨‍💻 Author
 
